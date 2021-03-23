@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt.git",
+        "state": {
+          "branch": null,
+          "revision": "e1f28276687d7661cbb2754771bd9fc281784e32",
+          "version": "5.2.0"
+        }
+      },
+      {
+        "package": "CBORCoding",
+        "repositoryURL": "https://github.com/SomeRandomiOSDev/CBORCoding.git",
+        "state": {
+          "branch": null,
+          "revision": "f4583199f028030d56de6ba20d397722e6f11407",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "Half",
+        "repositoryURL": "https://github.com/SomeRandomiOSDev/Half",
+        "state": {
+          "branch": null,
+          "revision": "f40c243c767459426fdbbb5aad44f4a0d853542e",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "openssl",
+        "repositoryURL": "git@github.com:Todd-Bowden/xc-openssl.git",
+        "state": {
+          "branch": "master",
+          "revision": "e1d8fe55c1316b27ec380f6a0a37da2edc98723a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
